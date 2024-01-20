@@ -1,2 +1,2 @@
-# Invictus24
-Just trying out new things.
+# adminhub
+Website ini merupakan hasil slicing dari Figma ke responsive website menggunakan HTML, CSS, dan JavaScript
